@@ -1,0 +1,10 @@
+.linha{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.linha2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
